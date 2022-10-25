@@ -1,8 +1,5 @@
 module.exports = {
-  extends: [
-    "plugin:sonarjs/recommended",
-    "prettier"
-  ],
+  extends: ["plugin:sonarjs/recommended", "prettier"],
   env: {
     browser: true,
     es2021: true,
