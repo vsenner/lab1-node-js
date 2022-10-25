@@ -1,4 +1,4 @@
-name: Explanarium Server Actions
+name: LabS
 on: [push]
 jobs:
   build:
