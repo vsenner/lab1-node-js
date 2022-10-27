@@ -1,1 +1,1 @@
-console.log("VADYM POPOV");
+console.log('VADYM POPOV');
